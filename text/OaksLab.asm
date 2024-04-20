@@ -9,7 +9,8 @@ _OaksLabRivalGoAheadAndChooseText::
 	line "don't need to be"
 	cont "greedy like you!"
 
-	para "Go ahead and"
+	para "<PLAYER>'s reverse engineering project is the best!"
+	line "So he can pick first. Go ahead and"
 	line "choose, <PLAYER>!"
 	done
 
